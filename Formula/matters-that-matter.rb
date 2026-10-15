@@ -1,8 +1,8 @@
 class MattersThatMatter < Formula
   desc "Command-line tool and MCP server for Matters that Matter in Obsidian"
   homepage "https://matters-that-matter.app/"
-  url "https://registry.npmjs.org/matters-that-matter/-/matters-that-matter-0.2.0.tgz"
-  sha256 "7f8b6c172e7b26799ff36c5ecaa4ed70ec2e8a9de99d1a576b3d13ae54ca3a16"
+  url "https://registry.npmjs.org/matters-that-matter/-/matters-that-matter-0.2.1.tgz"
+  sha256 "1de0350415e262548b31b13dd3cc3b927a404816d5370e8b98bbb0475cb0c5c3"
   license "MIT"
 
   depends_on "node"
